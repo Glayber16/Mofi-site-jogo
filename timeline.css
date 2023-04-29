@@ -13,14 +13,39 @@
     align-items: center;
 }
 
-.tempo h3 { 
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+.tempo1 {
+    position: absolute;
+    right: 57%;
+    top: 130px;
 }
-.tempo p {
-    margin: 0;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+
+.tempo1 p {
+    font-size: 13px;
 }
+
+
+ #logops {
+    margin: 1;
+    position: absolute;
+    right: 45%;
+    top: 150px;
+}
+
+.tempo2 {
+    position: absolute;
+    left: 57%;
+    top: 270px;
+}
+
+.tempo2 p {
+    font-size: 13px;
+}
+
+#lolgops {
+    margin: 1;
+    position: absolute;
+    right: 45%;
+    top: 300px;
+    
+}
+
