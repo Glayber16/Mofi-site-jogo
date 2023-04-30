@@ -1,0 +1,64 @@
+
+.about h1 {
+    margin: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.about p {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.tempo1 {
+    position: absolute;
+    right: 57%;
+    top: 130px;
+}
+
+.tempo1 p {
+    font-size: 13px;
+}
+
+
+ #logops {
+    margin: 1;
+    position: absolute;
+    right: 45%;
+    top: 150px;
+}
+
+.tempo2 {
+    position: absolute;
+    left: 57%;
+    top: 270px;
+    
+}
+
+.tempo2 p {
+    font-size: 13px;
+}
+
+#lolgops {
+    margin: 1;
+    position: absolute;
+    right: 45%;
+    top: 300px;
+}
+
+.tempo3 {
+    position: absolute;
+    right: 57%;
+    top: 400px;
+    
+}
+
+#tftgops {
+    margin: 1;
+    position: absolute;
+    right: 45%;
+    top: 450px;
+}
