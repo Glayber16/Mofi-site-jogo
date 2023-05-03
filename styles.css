@@ -89,3 +89,251 @@
     right: 45%;
     top: 1150px;
 }
+
+#titulo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'OCR A Std';
+    font-style: normal;
+    color: #000000;
+}
+#marina{
+    position: absolute;
+    width: 800px;
+    height: 2000px; /*alterar quando passar pro github*/
+    
+    font-family: 'Gugi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 400px;
+    text-align: center;
+    
+    color: #000000;
+}
+#marinateam{
+    position: absolute;
+    width: 800px;
+    height: 1800px; /*alterar quando passar pro github*/
+    
+    font-family: 'Kaisei Decol';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 450px;
+    text-align: center;
+    
+    color: #000000;
+}
+#jorge{
+    position: absolute;
+    width: 1200px;
+    height: 2000px; /*alterar quando passar pro github*/
+    
+    font-family: 'Gugi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 400px;
+    text-align: center;
+    
+    color: #000000;
+
+}
+#jorgeteam{
+    position: absolute;
+    width: 1200px;
+    height: 1800px; /*alterar quando passar pro github*/
+    
+    font-family: 'Kaisei Decol';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 450px;
+    text-align: center;
+    
+    color: #000000;
+}
+
+#lucas{
+    position: absolute;
+    width: 1600px;
+    height: 2000px; /*alterar quando passar pro github*/
+    
+    font-family: 'Gugi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 400px;
+    text-align: center;
+    
+    color: #000000;
+
+}
+#lucasteam{
+    position: absolute;
+    width: 1600px;
+    height: 1800px; /*alterar quando passar pro github*/
+    
+    font-family: 'Kaisei Decol';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 450px;
+    text-align: center;
+    
+    color: #000000;
+}
+
+#glayber{
+    position: absolute;
+    width: 2000px;
+    height: 2000px; /*alterar quando passar pro github*/
+    
+    font-family: 'Gugi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 400px;
+    text-align: center;
+    
+    color: #000000;
+
+}
+#glayberteam{
+    position: absolute;
+    width: 2000px;
+    height: 1800px; /*alterar quando passar pro github*/
+    
+    font-family: 'Kaisei Decol';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 450px;
+    text-align: center;
+    
+    color: #000000;
+}
+
+#fotomarina{
+    position: absolute;
+    width: 2492px;
+    height: 2492px;
+    
+    background: url(msg-808344144-1362.jpg);
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    line-height: 400px;
+    left: 360px;
+    
+}
+
+#fotojorge{
+    position: absolute;
+    width: 2492px;
+    height: 2492px;
+    background: url(msg-808344144-1362.jpg);
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    line-height: 400px;
+    left: 560px;
+
+}
+#fotolucas{
+    position: absolute;
+width: 2492px;
+height: 2492px;
+
+background: url(lucas.jpg);
+box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+line-height: 400px;
+left: 760px;
+}
+
+#fotoglayber{
+    position: absolute;
+    width: 2492px;
+    height: 2492px;
+    line-height: 400px;
+    background: url(glayber.jpg);
+    left: 960px;
+}
+
+#canva{
+    position: absolute;
+    width: 2752px;
+    height: 1113px;
+    line-height: 1000px;
+    left: 200px;
+    
+}
+#gti{
+    position: absolute;
+    width: 2644px;
+    height: 1349px;
+    line-height: 1000px;
+    left: 500px;
+}
+#creative{
+    position: absolute;
+    width: 2819px;
+    height: 1271px;  
+    line-height: 1000px;
+    left: 800px;
+}
+#valorant{
+    position: absolute;
+    width: 2233px;
+    height: 1385px;
+    line-height: 1000px;
+    left: 1100px;
+
+}
+#insta{
+    position: absolute;
+    width: 787px;
+    height: 787px;
+    line-height:600px ;
+    left:340px;
+}
+
+#linkedin{
+    position: absolute;
+    width: 787px;
+    height: 787px;
+    line-height:600px ;
+    left:390px;
+}
+#twitter{
+    position: absolute;
+    width: 787px;
+    height: 787px;
+    line-height:600px ;
+    left:440px;
+}
+.gti{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    line-height: 0px;
+}
+.icone{
+    display:flex;
+    flex-direction: column;
+}
+
+#tudo{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+ 
+}
+.img{
+    height: 150px;
+    width: 150px;
+
+}
+
+.icones2{
+height: 35px;
+width: 35px;
+}
