@@ -1,8 +1,5 @@
 .portf{
-    flex-direction: column;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    padding-bottom: 50px;
 }
 .timeline {
     display: flex;
