@@ -1,9 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 .timeline {
     display: flex;
     justify-content: center;
     align-items: center;
-    
 }
 
 .about {
@@ -24,31 +23,34 @@
 
 .logos{
     flex-direction: column;
+    margin-right: -10px;
 }
 
 .logo {
     margin-bottom: 100px;
-    z-index: 1;
+    z-index: 2;
 }
 
 .lolgo {
     margin-bottom: 100px;
-    z-index: 1;
+    z-index: 2;
 }
 
 .tftgo {
     margin-bottom: 100px;
-    z-index: 1;
+    z-index: 2;
 }
 
 .valogo {
     margin-bottom: 100px;
-    z-index: 1;
+    z-index: 2;
 }
 
 .esquerda p {
     padding-bottom: 250px;
 }
+
+
 
 .direita1 {
     padding-top: 150px;
@@ -59,12 +61,13 @@
 }
 
 
+
 /* #linha {
-    display: block;
-    
     height: 100px;
+    flex-direction: column;
     border-right: 2px solid gray;
     z-index: 1;
+    
 } */
 
 
