@@ -1,91 +1,70 @@
-
-
-.about h1 {
-    position: absolute;
-    right: 47%;
-    top: 400px;
-}
-
-.about p {
-    position: absolute;
-    right: 43%;
-    top: 450px;
-}
-
-.tempo1 {
-    position: absolute;
-    right: 57%;
-    top: 530px;
-}
-
-.tempo1 p {
-    font-size: 13px;
-}
-
-
- #logops {
-    margin: 1;
-    position: absolute;
-    right: 45%;
-    top: 550px;
-}
-
-.tempo2 {
-    position: absolute;
-    left: 57%;
-    top: 670px;
+.timeline {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     
 }
 
-.tempo2 p {
-    font-size: 13px;
+.about {
+    padding-bottom: 50px;
 }
 
-#lolgops {
-    margin: 1;
-    position: absolute;
-    right: 45%;
-    top: 700px;
+.timeline p {
+    font-size: 16px;
 }
 
-.tempo3 {
-    position: absolute;
-    right: 57%;
-    top: 820px;
+#circulos {
+    background: black;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    border: 5px solid gray;
+}
+
+.logos{
+    flex-direction: column;
+}
+
+.logo {
+    margin-bottom: 100px;
+    z-index: 1;
+}
+
+.lolgo {
+    margin-bottom: 100px;
+    z-index: 1;
+}
+
+.tftgo {
+    margin-bottom: 100px;
+    z-index: 1;
+}
+
+.valogo {
+    margin-bottom: 100px;
+    z-index: 1;
+}
+
+.esquerda p {
+    padding-bottom: 350px;
+}
+
+.direita1 {
+    padding-top: 150px;
+}
+
+.alter {
+    padding-top: 350px;
+}
+
+
+/* #linha {
+    display: block;
     
-}
+    height: 100px;
+    border-right: 2px solid gray;
+    z-index: 1;
+} */
 
-.tempo3 p {
-    font-size: 13px;
-}
 
-#tftgops {
-    margin: 1;
-    position: absolute;
-    right: 45%;
-    top: 850px;
-}
 
-.tempo4 {
-    position: absolute;
-    left: 57%;
-    top: 960px;
-}
-
-.tempo4 p {
-    font-size: 13px;
-}
-
-#valogops {
-    margin: 1;
-    position: absolute;
-    right: 45%;
-    top: 1000px;
-}
-
-#logofimps {
-    margin: 1;
-    position: absolute;
-    right: 45%;
-    top: 1150px;
-}
