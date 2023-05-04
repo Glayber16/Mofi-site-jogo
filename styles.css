@@ -1,6 +1,21 @@
 .portf{
-    padding-bottom: 50px;
+    justify-content: center;
+    align-items: center;
 }
+
+.logod1{
+
+
+
+}
+
+.logod2{
+
+
+
+
+}
+
 .timeline {
     display: flex;
     justify-content: center;
