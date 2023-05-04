@@ -45,8 +45,16 @@
     z-index: 1;
 }
 
-.esquerda {
-    padding-bottom: 700px;
+.esquerda p {
+    padding-bottom: 350px;
+}
+
+.direita1 {
+    padding-top: 150px;
+}
+
+.alter {
+    padding-top: 350px;
 }
 
 
