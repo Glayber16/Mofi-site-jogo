@@ -1,23 +1,16 @@
-.about h1 {
-    position: absolute;
-    right: 47%;
-    top: 400px;
+.timeline {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
 }
 
-.about p {
-    position: absolute;
-    right: 43%;
-    top: 450px;
+.about {
+    padding-bottom: 50px;
 }
 
-.tempo1 {
-    position: absolute;
-    right: 57%;
-    top: 550px;
-}
-
-.tempo1 p {
-    font-size:17px;
+.timeline p {
+    font-size: 16px;
 }
 
 #circulos {
@@ -28,84 +21,42 @@
     border: 5px solid gray;
 }
 
- #logops {
-    margin: 1;
-    position: absolute;
-    right: 45%;
-    top: 550px;
- }
-
-.tempo2 {
-    position: absolute;
-    left: 57%;
-    top: 800px;
-    
+.logos{
+    flex-direction: column;
 }
 
-.tempo2 p {
-    font-size:17px;
-}
-
-#lolgops {
-    margin: 1;
-    position: absolute;
-    right: 45%;
-    top: 800px;
-    z-index: 2;
-}
-
-.tempo3 {
-    position: absolute;
-    right: 57%;
-    top: 1050px;
-    
-}
-
-.tempo3 p {
-    font-size:17px;
-}
-
-#tftgops {
-    margin: 1;
-    position: absolute;
-    right: 45%;
-    top: 1050px;
-    z-index: 2;
-   
-}
-
-.tempo4 {
-    position: absolute;
-    left: 57%;
-    top: 1300px;
-}
-
-.tempo4 p {
-    font-size: 17px;
-}
-
-#valogops {
-    margin: 1;
-    position: absolute;
-    right: 45%;
-    top: 1300px;
-    z-index: 2;
-}
-
-#logofimps {
-    margin: 1;
-    position: absolute;
-    right: 45%;
-    top: 1550px;
-    z-index: 2;
-}
-
-.linhat {
-    position: absolute;
-    height: 1000px;
-    border-right: 2px solid gray;
-    right: 49.3%;
-    top: 710px;
+.logo {
+    margin-bottom: 100px;
     z-index: 1;
 }
+
+.lolgo {
+    margin-bottom: 100px;
+    z-index: 1;
+}
+
+.tftgo {
+    margin-bottom: 100px;
+    z-index: 1;
+}
+
+.valogo {
+    margin-bottom: 100px;
+    z-index: 1;
+}
+
+.esquerda {
+    padding-bottom: 700px;
+}
+
+
+/* #linha {
+    display: block;
+    
+    height: 100px;
+    border-right: 2px solid gray;
+    z-index: 1;
+} */
+
+
 
