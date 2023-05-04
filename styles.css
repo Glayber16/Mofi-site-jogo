@@ -1,7 +1,5 @@
 .portf{
-    display: flex;
-    justify-content: center;
-    aling-content: center;
+    flex-direction: column;
 }
 .timeline {
     display: flex;
