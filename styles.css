@@ -1,16 +1,17 @@
 .portf{
     justify-content: center;
     align-items: center;
+    display: flex;
 }
 
 .logod1{
-     display: flex;
+    display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .logod2{
-     display: flex;
+    display: flex;
     justify-content: center;
     align-items: center;
 }
