@@ -4,16 +4,15 @@
 }
 
 .logod1{
-
-
-
+     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .logod2{
-
-
-
-
+     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .timeline {
