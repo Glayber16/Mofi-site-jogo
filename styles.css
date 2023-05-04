@@ -1,3 +1,8 @@
+.portf{
+    display: flex;
+    justify-content: center;
+    aling-content: center;
+}
 .timeline {
     display: flex;
     justify-content: center;
