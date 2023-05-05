@@ -22,6 +22,10 @@
 }
 
 .logos{
+    background-image: url(logos/linha.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-position: 10% 80%;
     flex-direction: column;
     margin-right: -10px;
 }
@@ -59,16 +63,4 @@
 .direita2 {
     padding-top: 250px;
 }
-
-
-
-/* #linha {
-    height: 100px;
-    flex-direction: column;
-    border-right: 2px solid gray;
-    z-index: 1;
-    
-} */
-
-
 
