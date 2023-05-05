@@ -1,3 +1,9 @@
+.banner{
+    margin: 0;
+}
+
+
+
 .portf {
     display: flex;
     justify-content: center;
