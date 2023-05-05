@@ -1,8 +1,55 @@
-.banner{
-    margin: 0;
-    padding: 0;
-    border: 0;
-} 
+.menu-desk a{
+    color:white;
+    text-decoration: none;
+
+}
+
+.menu-desk li{
+    padding: 0 10px;
+    font-weight: lighter;
+    display: inline-block;
+
+}
+
+.menu-desk li.selected{
+    font-weight: bold;
+
+}
+
+.menu-desk a:hover{
+    text-decoration: underline;
+
+}
+
+/*banner */
+
+.banner
+{
+    width: 100%;
+    height: 600px;
+    background-image: url("../img/banner.jpg");
+    background-repeat: no repeat;
+    background-size: cover;
+    background-position: center;
+    text-align:center;
+}
+
+.botao{
+    width:200px;
+    text-align: center;
+    padding: 16px 32px;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+    margin-top: 480px;
+    transition-duration: 0.4s;
+    background-color: blueviolet;
+    color:white;
+    font-weight: bold;
+    border: 2px solid white;
+    
+}
 
 
 
