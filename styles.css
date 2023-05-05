@@ -17,32 +17,38 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
 }
 .logod3 p{
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
 }
 .logod4 p{
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
 }
 .logod5 p{
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
 }
 .logod6{
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
 }
 
 .timeline {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
     
 }
 
