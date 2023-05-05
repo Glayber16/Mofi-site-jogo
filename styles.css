@@ -6,29 +6,29 @@
    
 }
 
-.logod1{
+.logod1 p{
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
 }
 
-.logod2{
+.logod2 p{
     display: flex;
     justify-content: center;
     align-items: center;
 }
-.logod3{
+.logod3 p{
     display: flex;
     justify-content: center;
     align-items: center;
 }
-.logod4{
+.logod4 p{
     display: flex;
     justify-content: center;
     align-items: center;
 }
-.logod5{
+.logod5 p{
     display: flex;
     justify-content: center;
     align-items: center;
