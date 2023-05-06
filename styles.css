@@ -77,6 +77,9 @@
 .logod4 p, .logod5 p, .logod6 p {
     text-align: center;
 }
+.logod1 p, .logod2 p, .logod3 p {
+    text-align: center;
+}
 
 .timeline {
     display: flex;
