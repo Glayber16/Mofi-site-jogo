@@ -34,19 +34,19 @@
     flex-direction: column;
 }
 .logod4, p{
-    display: flex;
+    display: inline-block;
     justify-content: center;
     align-items: center;
     flex-direction: column;
 }
 .logod5, p{
-    display: flex;
+    display: inline-block;
     justify-content: center;
     align-items: center;
     flex-direction: column;
 }
 .logod6, p{
-    display: flex;
+    display: inline-block;
     justify-content: center;
     align-items: center;
     flex-direction: column;
