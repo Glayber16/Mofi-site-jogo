@@ -124,12 +124,17 @@ nav.menu-desktop a:hover {
     display: flex;
     flex-direction: row;
     gap: 20px;
+    text-align: center;
 }
 
 .portifooo{
     display: flex;
     flex-direction: row;
     gap: 20px;
+    text-align: center;
+}
+.portf h6 {
+    text-align: center;
 }
 
 .logod1{
@@ -175,6 +180,7 @@ nav.menu-desktop a:hover {
 .logod1 p, .logod2 p, .logod3 p {
     text-align: center;
 }
+
 
 .timeline {
     display: flex;
