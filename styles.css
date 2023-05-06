@@ -13,6 +13,11 @@
     flex-direction: column;
    
 }
+
+.portifoo4{
+    margin:right;
+    margin:left;
+}
 .portifoo{
     display: flex;
     justify-direct: row;
