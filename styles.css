@@ -22,8 +22,7 @@
 .portif5{
     display: flex;
     justify-content: center;
-    margin-right: 15px;
-    margin-left: 15px;
+    margin: 0 20px;
 }
 }
 .portifoo{
@@ -74,6 +73,9 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
+}
+.logod4 p, .logod5 p, .logod6 p {
+    text-align: center;
 }
 
 .timeline {
