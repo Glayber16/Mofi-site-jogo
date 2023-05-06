@@ -13,6 +13,10 @@
     flex-direction: column;
    
 }
+.portifoo{
+    display: flex;
+    justify-content: center;
+}
 
 .logod1{
     display: inline-block;
