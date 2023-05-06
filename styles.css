@@ -26,13 +26,13 @@
 .portifoo{
     display: flex;
     flex-direction: row;
-   
+    gap: 20px;
 }
 
 .portifooo{
     display: flex;
     flex-direction: row;
- 
+    gap: 20px;
 }
 
 .logod1{
