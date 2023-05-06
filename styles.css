@@ -124,12 +124,14 @@ nav.menu-desktop a:hover {
     display: flex;
     flex-direction: row;
     gap: 20px;
+    text-align: center;
 }
 
 .portifooo{
     display: flex;
     flex-direction: row;
     gap: 20px;
+    text-align: center;
 }
 .portf h6 {
     text-align: center;
