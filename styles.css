@@ -25,13 +25,13 @@
 }
 .portifoo{
     display: flex;
-    justify-direct: row;
+    flex-direction: row;
    
 }
 
 .portifooo{
     display: flex;
-    justify-direct: row;
+    flex-direction: row;
  
 }
 
