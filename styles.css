@@ -14,38 +14,38 @@
    
 }
 
-.logod1 p{
+.logod1, p{
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
 }
 
-.logod2 p{
+.logod2, p{
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
 }
-.logod3 p{
+.logod3, p{
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
 }
-.logod4 p{
+.logod4, p{
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
 }
-.logod5 p{
+.logod5, p{
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
 }
-.logod6{
+.logod6, p{
     display: flex;
     justify-content: center;
     align-items: center;
