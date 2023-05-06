@@ -13,18 +13,17 @@
     flex-direction: column;
    
 }
-
-.portifoo4{
-    display: flex;
-    justify-direct: row;
-}
 }
 .portifoo{
+    display: flex;
+    justify-direct: row;
     margin-right: 15px;
     margin-left: 15px;
 }
 
 .portifooo{
+    display: flex;
+    justify-direct: row;
     margin-right: 15px;
     margin-left: 15px;
 }
