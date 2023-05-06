@@ -15,12 +15,12 @@
 }
 .portifoo{
     display: flex;
-    justify-content: center;
+    justify-direct: row;
 }
 
 .portifooo{
     display: flex;
-    justify-content: center;
+    justify-direct: row;
 }
 
 .logod1{
