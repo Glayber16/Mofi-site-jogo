@@ -13,6 +13,10 @@
     flex-direction: column;
    
 }
+.portifoooo{
+    display: flex;
+    justify-direct: center;
+}
 }
 .portifoo{
     display: flex;
