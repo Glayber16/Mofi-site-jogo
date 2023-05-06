@@ -18,6 +18,11 @@
     justify-content: center;
 }
 
+.portifooo{
+    display: flex;
+    justify-content: center;
+}
+
 .logod1{
     display: inline-block;
     justify-content: center;
