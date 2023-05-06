@@ -7,7 +7,7 @@
 
 
 .portf {
-    display: flex;
+    display: inline-block;
     justify-content: center;
     align-items: center;
     flex-direction: column;
@@ -15,20 +15,20 @@
 }
 
 .logod1, p{
-    display: flex;
+    display: inline-block;
     justify-content: center;
     align-items: center;
     flex-direction: column;
 }
 
 .logod2, p{
-    display: flex;
+    display: inline-block;
     justify-content: center;
     align-items: center;
     flex-direction: column;
 }
 .logod3, p{
-    display: flex;
+    display: inline-block;
     justify-content: center;
     align-items: center;
     flex-direction: column;
