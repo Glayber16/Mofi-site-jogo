@@ -14,38 +14,38 @@
    
 }
 
-.logod1, p{
+.logod1{
     display: inline-block;
     justify-content: center;
     align-items: center;
     flex-direction: column;
 }
 
-.logod2, p{
+.logod2{
     display: inline-block;
     justify-content: center;
     align-items: center;
     flex-direction: column;
 }
-.logod3, p{
+.logod3{
     display: inline-block;
     justify-content: center;
     align-items: center;
     flex-direction: column;
 }
-.logod4, p{
+.logod4{
     display: inline-block;
     justify-content: center;
     align-items: center;
     flex-direction: column;
 }
-.logod5, p{
+.logod5{
     display: inline-block;
     justify-content: center;
     align-items: center;
     flex-direction: column;
 }
-.logod6, p{
+.logod6{
     display: inline-block;
     justify-content: center;
     align-items: center;
