@@ -175,6 +175,9 @@ nav.menu-desktop a:hover {
 .logod1 p, .logod2 p, .logod3 p {
     text-align: center;
 }
+.logod1 h, .logod2 h, .logod3 h, .logod4 h, .logod5 h, .logod6 h {
+    text-align: center;
+}
 
 .timeline {
     display: flex;
