@@ -16,8 +16,7 @@
 .portif4{
     display: flex;
     justify-content: center;
-    margin-right: 15px;
-    margin-left: 15px;
+    margin: 0 20px;
 }
 .portif5{
     display: flex;
