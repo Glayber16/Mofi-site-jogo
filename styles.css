@@ -186,7 +186,7 @@ nav.menu-desktop a:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    
+    margin-bottom: 75px;
 }
 
 .about {
@@ -236,8 +236,6 @@ nav.menu-desktop a:hover {
 .esquerda p {
     padding-bottom: 250px;
 }
-
-
 
 .direita1 {
     padding-top: 150px;
